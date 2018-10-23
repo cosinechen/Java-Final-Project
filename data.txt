@@ -1,0 +1,17 @@
+Alice		0131		091234567	family		edc@gmail.com
+Andy		0715		039123456	client		andywu@yam.com.tw
+Betty		1010		0998765432	colleague		tgbyhnujm@yahoo.com.tw
+Charlie		0816		094567123	classmate		rfv@gmail.com
+Dave		0530		097654321	classmate		wsx@yahoo.com.tw
+Emily		1102		02123456	client		e1359rtyfu@hotmail.com
+Gabrielle		1031		03224567	teacher		iyuio1234578@gmail.com
+Gogo		1223		0522159357	doctor		gogogo@gmail.com
+H		0210		0965498555	family		erthj@yahoo.com.tw
+Jane		0214		0912345678	family		qazr@gmail.com
+Lily		0701		087777000	cousin		lily@hotmail.com
+Owen		0416		043333333	brother		dfghjk2345fgh@gmail.com
+Sandy		0814		0911555666	aunt		ujm@gmail.com
+Sean		0228		06159357	student		e000rtyd@hotmail.com
+Tina		1206		0932112340	friend		qaz@gmail.com
+Tom		0325		0922211333	family		qwe@yahoo.com.tw
+Zayn		0625		091231231	family		tgb@gmail.com
